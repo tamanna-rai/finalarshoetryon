@@ -1,15 +1,13 @@
 # 🌟 AR Shoe Try-On System 🥿
 
 ## 👥 Team Members
-- Dat Tran
-- Hoang Long Nguyen Huu
-- Quan Hoang Ngoc
-- Dai Truong Le Trong
-- Anh Thu Tran Van
-
-## 🚀 Event
-- **Competition**: Datathon Vietnam
-- **Season**: HK1, 2023
+- Tamanna
+- Umang
+- Aditya
+- Anushi
+- Chhavi
+- Harris
+- Divanshi
 
 ---
 
